@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Amin001685
+- 👀 I’m interested in ... invisible dark world 
+- 🌱 I’m currently learning ...by python 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Amin001685/Amin001685 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->i also give you the real tools of termux
+
